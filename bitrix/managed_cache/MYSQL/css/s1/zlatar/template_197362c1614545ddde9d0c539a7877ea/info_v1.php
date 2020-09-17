@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/zlatar/public/css/normalize.css" => "15996347226138","/local/templates/zlatar/public/css/styles.min.css" => "1599733072362484",); ?>

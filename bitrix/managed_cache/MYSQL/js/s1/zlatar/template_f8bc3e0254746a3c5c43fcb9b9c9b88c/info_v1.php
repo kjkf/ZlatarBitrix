@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/zlatar/public/scripts.js" => "15997332101606334",); ?>
